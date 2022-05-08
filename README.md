@@ -88,3 +88,6 @@ sudo mkarchiso -v holoiso
 ```
 Once it ends, your ISO will be available in the `out` folder.
 
+
+this is a custom WIP fork bu slaminger.
+
